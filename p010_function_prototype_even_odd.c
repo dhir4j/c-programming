@@ -13,10 +13,10 @@ int main(int argc, char const *argv[])
 
 int even_odd(int a){
     if (a % 2 == 0){
-        printf("\nIts is a Even Number");
+        printf("\nIts is a Even Number\n");
     }
     else{
-        printf("\nIts is a Odd Number");
+        printf("\nIts is a Odd Number\n");
     }
 }
 
