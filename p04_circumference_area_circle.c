@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
     float circumference;
     float area;
 
-    printf("Enter Radius : \n");
+    printf("Enter Radius: ");
     scanf("%f",&radius);
 
     circumference = 2*PI*radius;

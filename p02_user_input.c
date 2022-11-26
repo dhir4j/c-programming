@@ -3,9 +3,9 @@
 int main(int argc, char const *argv[])
 {
     int age;
-    printf("Enter your Age:\n");
+    printf("Enter your Age: ");
     scanf("%d",&age);
 
-    printf("%d\n",age);
+    printf("Your Age is : %d\n",age);
     return 0;
 }
